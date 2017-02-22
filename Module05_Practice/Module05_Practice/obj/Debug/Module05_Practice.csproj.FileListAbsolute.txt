@@ -1,0 +1,12 @@
+E:\_boostNode\GitHub\IN2017\IN2017_Module05\Module05_Practice\Module05_Practice\bin\Debug\Module05_Practice.exe.config
+E:\_boostNode\GitHub\IN2017\IN2017_Module05\Module05_Practice\Module05_Practice\bin\Debug\Module05_Practice.exe
+E:\_boostNode\GitHub\IN2017\IN2017_Module05\Module05_Practice\Module05_Practice\bin\Debug\Module05_Practice.pdb
+E:\_boostNode\GitHub\IN2017\IN2017_Module05\Module05_Practice\Module05_Practice\obj\Debug\Module05_Practice.csprojResolveAssemblyReference.cache
+E:\_boostNode\GitHub\IN2017\IN2017_Module05\Module05_Practice\Module05_Practice\obj\Debug\Module05_Practice.exe
+E:\_boostNode\GitHub\IN2017\IN2017_Module05\Module05_Practice\Module05_Practice\obj\Debug\Module05_Practice.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module05\Module05_Practice\Module05_Practice\bin\Debug\Module05_Practice.exe.config
+K:\_boostNode\GitHub\IN2017\IN2017_Module05\Module05_Practice\Module05_Practice\obj\Debug\Module05_Practice.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module05\Module05_Practice\Module05_Practice\obj\Debug\Module05_Practice.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module05\Module05_Practice\Module05_Practice\bin\Debug\Module05_Practice.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module05\Module05_Practice\Module05_Practice\bin\Debug\Module05_Practice.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module05\Module05_Practice\Module05_Practice\obj\Debug\Module05_Practice.csprojResolveAssemblyReference.cache
