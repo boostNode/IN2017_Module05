@@ -1,0 +1,6 @@
+K:\_boostNode\GitHub\IN2017\IN2017_Module05\Module05_Lesson01\Module05_Lesson01\bin\Debug\Module05_Lesson01.exe.config
+K:\_boostNode\GitHub\IN2017\IN2017_Module05\Module05_Lesson01\Module05_Lesson01\bin\Debug\Module05_Lesson01.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module05\Module05_Lesson01\Module05_Lesson01\bin\Debug\Module05_Lesson01.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module05\Module05_Lesson01\Module05_Lesson01\obj\Debug\Module05_Lesson01.exe
+K:\_boostNode\GitHub\IN2017\IN2017_Module05\Module05_Lesson01\Module05_Lesson01\obj\Debug\Module05_Lesson01.pdb
+K:\_boostNode\GitHub\IN2017\IN2017_Module05\Module05_Lesson01\Module05_Lesson01\obj\Debug\Module05_Lesson01.csprojResolveAssemblyReference.cache
